@@ -1,0 +1,256 @@
+-------------------------- TileBoard searching...-----------------------------------
+
+###Puzzle 1###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 37 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 0 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 2###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 2 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 13 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 1 sec or  0 min
+
+###Puzzle 3###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 1 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 13 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 4###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 70 sec or  1 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 2 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 5###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 9 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 9 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 6###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 34 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 11 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 7###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 28 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 11 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 8###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 37 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 4 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 9###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 17 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 12 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 10###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 67 sec or  1 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 5 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 11###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 44 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 16 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 1 sec or  0 min
+
+###Puzzle 12###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 6 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 10 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 13###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 8 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 3 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 14###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 22 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 15 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 15###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 43 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 6 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 1 sec or  0 min
+
+###Puzzle 16###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 43 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 6 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 17###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 47 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 12 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 18###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 6 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 4 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 19###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 61 sec or  1 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 10 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 20###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 0 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 1 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 21###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 44 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 12 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 22###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 43 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 18 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 23###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 50 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 10 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 24###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 1 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 8 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 25###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 41 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 17 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 26###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 28 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 0 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 27###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 26 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 5 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 28###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 13 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 3 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 29###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 59 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 15 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 1 sec or  0 min
+
+###Puzzle 30###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 17 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 1 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
+
+###Puzzle 31###
+Solving puzzle using BreadthFirst
+Puzzle Solved in 19 sec or  0 min
+Solving puzzle using DepthFirst
+Puzzle Solved in 3 sec or  0 min
+Solving puzzle using A*
+Puzzle Solved in 0 sec or  0 min
++----+---------------+----------------------------+------------------------------+---------------------------+---------------------------+
+|    | Search Type   | Path_Length (Mean/Stdev)   | Node_Explored (Mean/Stdev)   | Time in Sec(Mean/Stdev)   | Time in Min(Mean/Stdev)   |
+|----+---------------+----------------------------+------------------------------+---------------------------+---------------------------|
+|  0 | Breadth First | 22.48 / 3.12               | 160821.52 / 108655.30        | 30.27 / 20.65             | 0.50 / 0.34               |
+|  1 | Depth First   | 60329.26 / 35688.56        | 64504.48 / 39833.09          | 8.68 / 5.42               | 0.14 / 0.09               |
+|  2 | A*            | 21.81 / 4.03               | 1444.65 / 1757.06            | 0.34 / 0.41               | 0.01 / 0.01               |
++----+---------------+----------------------------+------------------------------+---------------------------+---------------------------+

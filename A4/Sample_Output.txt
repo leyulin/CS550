@@ -1,0 +1,1004 @@
+# Used ai aginst tonoto
+Game(red=ai.Strategy, black=tonto.Strategy, maxplies=3, firstmove=0)
+
+How about a nice game of checkers?
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     b     b     b     b 
+1  b     b     b     b    
+2     b     b     b     b 
+3  .     .     .     .    
+4     .     .     .     . 
+5  r     r     r     r    
+6     r     r     r     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 0 by r: from (5, 2) to (4, 3)  Result: 
+   0  1  2  3  4  5  6  7 
+0     b     b     b     b 
+1  b     b     b     b    
+2     b     b     b     b 
+3  .     .     .     .    
+4     .     r     .     . 
+5  r     .     r     r    
+6     r     r     r     r 
+7  r     r     r     r    
+Pawn/King count: r 12 R 0 b 12 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 1 last pawn advance 0
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     b     b     b     b 
+1  b     b     b     b    
+2     b     b     b     b 
+3  .     .     .     .    
+4     .     r     .     . 
+5  r     .     r     r    
+6     r     r     r     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 1 by b: from (2, 7) to (3, 6)  Result: 
+   0  1  2  3  4  5  6  7 
+0     b     b     b     b 
+1  b     b     b     b    
+2     b     b     b     . 
+3  .     .     .     b    
+4     .     r     .     . 
+5  r     .     r     r    
+6     r     r     r     r 
+7  r     r     r     r    
+Pawn/King count: b 12 R 0 b 12 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 2 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     b     b     b     b 
+1  b     b     b     b    
+2     b     b     b     . 
+3  .     .     .     b    
+4     .     r     .     . 
+5  r     .     r     r    
+6     r     r     r     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 2 by r: from (5, 6) to (4, 7)  Result: 
+   0  1  2  3  4  5  6  7 
+0     b     b     b     b 
+1  b     b     b     b    
+2     b     b     b     . 
+3  .     .     .     b    
+4     .     r     .     r 
+5  r     .     r     .    
+6     r     r     r     r 
+7  r     r     r     r    
+Pawn/King count: r 12 R 0 b 12 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 3 last pawn advance 0
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     b     b     b     b 
+1  b     b     b     b    
+2     b     b     b     . 
+3  .     .     .     b    
+4     .     r     .     r 
+5  r     .     r     .    
+6     r     r     r     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 3 by b: from (2, 3) to (3, 2)  Result: 
+   0  1  2  3  4  5  6  7 
+0     b     b     b     b 
+1  b     b     b     b    
+2     b     .     b     . 
+3  .     b     .     b    
+4     .     r     .     r 
+5  r     .     r     .    
+6     r     r     r     r 
+7  r     r     r     r    
+Pawn/King count: b 12 R 0 b 12 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 4 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     b     b     b     b 
+1  b     b     b     b    
+2     b     .     b     . 
+3  .     b     .     b    
+4     .     r     .     r 
+5  r     .     r     .    
+6     r     r     r     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 4 by r: from (6, 1) to (5, 2)  Result: 
+   0  1  2  3  4  5  6  7 
+0     b     b     b     b 
+1  b     b     b     b    
+2     b     .     b     . 
+3  .     b     .     b    
+4     .     r     .     r 
+5  r     r     r     .    
+6     .     r     r     r 
+7  r     r     r     r    
+Pawn/King count: r 12 R 0 b 12 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 5 last pawn advance 0
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     b     b     b     b 
+1  b     b     b     b    
+2     b     .     b     . 
+3  .     b     .     b    
+4     .     r     .     r 
+5  r     r     r     .    
+6     .     r     r     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 5 by b: from (1, 2) to (2, 3)  Result: 
+   0  1  2  3  4  5  6  7 
+0     b     b     b     b 
+1  b     .     b     b    
+2     b     b     b     . 
+3  .     b     .     b    
+4     .     r     .     r 
+5  r     r     r     .    
+6     .     r     r     r 
+7  r     r     r     r    
+Pawn/King count: b 12 R 0 b 12 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 6 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     b     b     b     b 
+1  b     .     b     b    
+2     b     b     b     . 
+3  .     b     .     b    
+4     .     r     .     r 
+5  r     r     r     .    
+6     .     r     r     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 6 by r: from (5, 2) to (4, 1)  Result: 
+   0  1  2  3  4  5  6  7 
+0     b     b     b     b 
+1  b     .     b     b    
+2     b     b     b     . 
+3  .     b     .     b    
+4     r     r     .     r 
+5  r     .     r     .    
+6     .     r     r     r 
+7  r     r     r     r    
+Pawn/King count: r 12 R 0 b 12 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 7 last pawn advance 0
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     b     b     b     b 
+1  b     .     b     b    
+2     b     b     b     . 
+3  .     b     .     b    
+4     r     r     .     r 
+5  r     .     r     .    
+6     .     r     r     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 7 by b: from (0, 1) to (1, 2)  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     b     b     b 
+1  b     b     b     b    
+2     b     b     b     . 
+3  .     b     .     b    
+4     r     r     .     r 
+5  r     .     r     .    
+6     .     r     r     r 
+7  r     r     r     r    
+Pawn/King count: b 12 R 0 b 12 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 8 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     .     b     b     b 
+1  b     b     b     b    
+2     b     b     b     . 
+3  .     b     .     b    
+4     r     r     .     r 
+5  r     .     r     .    
+6     .     r     r     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 8 by r: from (4, 1) to (3, 0)  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     b     b     b 
+1  b     b     b     b    
+2     b     b     b     . 
+3  r     b     .     b    
+4     .     r     .     r 
+5  r     .     r     .    
+6     .     r     r     r 
+7  r     r     r     r    
+Pawn/King count: r 12 R 0 b 12 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 9 last pawn advance 0
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     .     b     b     b 
+1  b     b     b     b    
+2     b     b     b     . 
+3  r     b     .     b    
+4     .     r     .     r 
+5  r     .     r     .    
+6     .     r     r     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 9 by b: from (2, 3) to (3, 4)  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     b     b     b 
+1  b     b     b     b    
+2     b     .     b     . 
+3  r     b     b     b    
+4     .     r     .     r 
+5  r     .     r     .    
+6     .     r     r     r 
+7  r     r     r     r    
+Pawn/King count: b 12 R 0 b 12 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 10 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     .     b     b     b 
+1  b     b     b     b    
+2     b     .     b     . 
+3  r     b     b     b    
+4     .     r     .     r 
+5  r     .     r     .    
+6     .     r     r     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 10 by r: from (6, 5) to (5, 6)  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     b     b     b 
+1  b     b     b     b    
+2     b     .     b     . 
+3  r     b     b     b    
+4     .     r     .     r 
+5  r     .     r     r    
+6     .     r     .     r 
+7  r     r     r     r    
+Pawn/King count: r 12 R 0 b 12 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 11 last pawn advance 0
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     .     b     b     b 
+1  b     b     b     b    
+2     b     .     b     . 
+3  r     b     b     b    
+4     .     r     .     r 
+5  r     .     r     r    
+6     .     r     .     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 11 by b: from (3, 4) to (5, 2) capturing (4, 3)a  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     b     b     b 
+1  b     b     b     b    
+2     b     .     b     . 
+3  r     b     .     b    
+4     .     .     .     r 
+5  r     b     r     r    
+6     .     r     .     r 
+7  r     r     r     r    
+Pawn/King count: b 11 R 0 b 12 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 0 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     .     b     b     b 
+1  b     b     b     b    
+2     b     .     b     . 
+3  r     b     .     b    
+4     .     .     .     r 
+5  r     b     r     r    
+6     .     r     .     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 12 by r: from (6, 3) to (4, 1) capturing (5, 2)a to (2, 3) capturing (3, 2)a to (0, 1) capturing (1, 2)a  Result: 
+   0  1  2  3  4  5  6  7 
+0     R     b     b     b 
+1  b     .     b     b    
+2     b     .     b     . 
+3  r     .     .     b    
+4     .     .     .     r 
+5  r     .     r     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: r 10 R 1 b 9 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 0 last pawn advance 0
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     R     b     b     b 
+1  b     .     b     b    
+2     b     .     b     . 
+3  r     .     .     b    
+4     .     .     .     r 
+5  r     .     r     r    
+6     .     .     .     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 13 by b: from (2, 1) to (3, 2)  Result: 
+   0  1  2  3  4  5  6  7 
+0     R     b     b     b 
+1  b     .     b     b    
+2     .     .     b     . 
+3  r     b     .     b    
+4     .     .     .     r 
+5  r     .     r     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: b 10 R 1 b 9 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 1 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     R     b     b     b 
+1  b     .     b     b    
+2     .     .     b     . 
+3  r     b     .     b    
+4     .     .     .     r 
+5  r     .     r     r    
+6     .     .     .     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 14 by r: from (0, 1) to (1, 2)  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     b     b     b 
+1  b     R     b     b    
+2     .     .     b     . 
+3  r     b     .     b    
+4     .     .     .     r 
+5  r     .     r     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: r 10 R 1 b 9 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 2 last pawn advance 1
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     .     b     b     b 
+1  b     R     b     b    
+2     .     .     b     . 
+3  r     b     .     b    
+4     .     .     .     r 
+5  r     .     r     r    
+6     .     .     .     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 15 by b: from (0, 3) to (2, 1) capturing (1, 2)a  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  b     .     b     b    
+2     b     .     b     . 
+3  r     b     .     b    
+4     .     .     .     r 
+5  r     .     r     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: b 10 R 0 b 9 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 0 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  b     .     b     b    
+2     b     .     b     . 
+3  r     b     .     b    
+4     .     .     .     r 
+5  r     .     r     r    
+6     .     .     .     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 16 by r: from (3, 0) to (1, 2) capturing (2, 1)a  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  b     r     b     b    
+2     .     .     b     . 
+3  .     b     .     b    
+4     .     .     .     r 
+5  r     .     r     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: r 10 R 0 b 8 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 0 last pawn advance 0
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  b     r     b     b    
+2     .     .     b     . 
+3  .     b     .     b    
+4     .     .     .     r 
+5  r     .     r     r    
+6     .     .     .     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 17 by b: from (3, 2) to (4, 1)  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  b     r     b     b    
+2     .     .     b     . 
+3  .     .     .     b    
+4     b     .     .     r 
+5  r     .     r     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: b 10 R 0 b 8 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 1 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  b     r     b     b    
+2     .     .     b     . 
+3  .     .     .     b    
+4     b     .     .     r 
+5  r     .     r     r    
+6     .     .     .     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 18 by r: from (5, 0) to (3, 2) capturing (4, 1)a  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  b     r     b     b    
+2     .     .     b     . 
+3  .     r     .     b    
+4     .     .     .     r 
+5  .     .     r     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: r 10 R 0 b 7 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 0 last pawn advance 0
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  b     r     b     b    
+2     .     .     b     . 
+3  .     r     .     b    
+4     .     .     .     r 
+5  .     .     r     r    
+6     .     .     .     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 19 by b: from (3, 6) to (4, 5)  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  b     r     b     b    
+2     .     .     b     . 
+3  .     r     .     .    
+4     .     .     b     r 
+5  .     .     r     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: b 10 R 0 b 7 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 1 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  b     r     b     b    
+2     .     .     b     . 
+3  .     r     .     .    
+4     .     .     b     r 
+5  .     .     r     r    
+6     .     .     .     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 20 by r: from (5, 4) to (3, 6) capturing (4, 5)a  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  b     r     b     b    
+2     .     .     b     . 
+3  .     r     .     r    
+4     .     .     .     r 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: r 10 R 0 b 6 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 0 last pawn advance 0
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  b     r     b     b    
+2     .     .     b     . 
+3  .     r     .     r    
+4     .     .     .     r 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 21 by b: from (1, 0) to (2, 1)  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  .     r     b     b    
+2     b     .     b     . 
+3  .     r     .     r    
+4     .     .     .     r 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: b 10 R 0 b 6 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 1 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  .     r     b     b    
+2     b     .     b     . 
+3  .     r     .     r    
+4     .     .     .     r 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 22 by r: from (3, 2) to (1, 0) capturing (2, 1)a  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  r     r     b     b    
+2     .     .     b     . 
+3  .     .     .     r    
+4     .     .     .     r 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: r 10 R 0 b 5 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 0 last pawn advance 0
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  r     r     b     b    
+2     .     .     b     . 
+3  .     .     .     r    
+4     .     .     .     r 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 23 by b: from (1, 4) to (2, 3)  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  r     r     .     b    
+2     .     b     b     . 
+3  .     .     .     r    
+4     .     .     .     r 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: b 10 R 0 b 5 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 1 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  r     r     .     b    
+2     .     b     b     . 
+3  .     .     .     r    
+4     .     .     .     r 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 24 by r: from (3, 6) to (1, 4) capturing (2, 5)a  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  r     r     r     b    
+2     .     b     .     . 
+3  .     .     .     .    
+4     .     .     .     r 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: r 10 R 0 b 4 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 0 last pawn advance 0
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  r     r     r     b    
+2     .     b     .     . 
+3  .     .     .     .    
+4     .     .     .     r 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 25 by b: from (1, 6) to (2, 5)  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  r     r     r     .    
+2     .     b     b     . 
+3  .     .     .     .    
+4     .     .     .     r 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: b 10 R 0 b 4 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 1 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     .     .     b     b 
+1  r     r     r     .    
+2     .     b     b     . 
+3  .     .     .     .    
+4     .     .     .     r 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 26 by r: from (1, 2) to (0, 1)  Result: 
+   0  1  2  3  4  5  6  7 
+0     R     .     b     b 
+1  r     .     r     .    
+2     .     b     b     . 
+3  .     .     .     .    
+4     .     .     .     r 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: r 9 R 1 b 4 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 2 last pawn advance 0
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     R     .     b     b 
+1  r     .     r     .    
+2     .     b     b     . 
+3  .     .     .     .    
+4     .     .     .     r 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 27 by b: from (2, 5) to (3, 6)  Result: 
+   0  1  2  3  4  5  6  7 
+0     R     .     b     b 
+1  r     .     r     .    
+2     .     b     .     . 
+3  .     .     .     b    
+4     .     .     .     r 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: b 9 R 1 b 4 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 3 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     R     .     b     b 
+1  r     .     r     .    
+2     .     b     .     . 
+3  .     .     .     b    
+4     .     .     .     r 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 28 by r: from (4, 7) to (2, 5) capturing (3, 6)a  Result: 
+   0  1  2  3  4  5  6  7 
+0     R     .     b     b 
+1  r     .     r     .    
+2     .     b     r     . 
+3  .     .     .     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: r 9 R 1 b 3 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 0 last pawn advance 0
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     R     .     b     b 
+1  r     .     r     .    
+2     .     b     r     . 
+3  .     .     .     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 29 by b: from (0, 5) to (1, 6)  Result: 
+   0  1  2  3  4  5  6  7 
+0     R     .     .     b 
+1  r     .     r     b    
+2     .     b     r     . 
+3  .     .     .     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: b 9 R 1 b 3 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 1 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     R     .     .     b 
+1  r     .     r     b    
+2     .     b     r     . 
+3  .     .     .     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 30 by r: from (1, 4) to (0, 5)  Result: 
+   0  1  2  3  4  5  6  7 
+0     R     .     R     b 
+1  r     .     .     b    
+2     .     b     r     . 
+3  .     .     .     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: r 8 R 2 b 3 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 2 last pawn advance 0
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     R     .     R     b 
+1  r     .     .     b    
+2     .     b     r     . 
+3  .     .     .     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 31 by b: from (1, 6) to (3, 4) capturing (2, 5)a  Result: 
+   0  1  2  3  4  5  6  7 
+0     R     .     R     b 
+1  r     .     .     .    
+2     .     b     .     . 
+3  .     .     b     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: b 7 R 2 b 3 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 0 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     R     .     R     b 
+1  r     .     .     .    
+2     .     b     .     . 
+3  .     .     b     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 32 by r: from (0, 1) to (1, 2)  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     R     b 
+1  r     R     .     .    
+2     .     b     .     . 
+3  .     .     b     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: r 7 R 2 b 3 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 1 last pawn advance 1
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     .     .     R     b 
+1  r     R     .     .    
+2     .     b     .     . 
+3  .     .     b     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 33 by b: from (0, 7) to (1, 6)  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     R     . 
+1  r     R     .     b    
+2     .     b     .     . 
+3  .     .     b     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: b 7 R 2 b 3 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 2 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     .     .     R     . 
+1  r     R     .     b    
+2     .     b     .     . 
+3  .     .     b     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 34 by r: from (0, 5) to (2, 7) capturing (1, 6)a  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     .     . 
+1  r     R     .     .    
+2     .     b     .     R 
+3  .     .     b     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: r 7 R 2 b 2 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 0 last pawn advance 1
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     .     .     .     . 
+1  r     R     .     .    
+2     .     b     .     R 
+3  .     .     b     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 35 by b: from (2, 3) to (3, 2)  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     .     . 
+1  r     R     .     .    
+2     .     .     .     R 
+3  .     b     b     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: b 7 R 2 b 2 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 1 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     .     .     .     . 
+1  r     R     .     .    
+2     .     .     .     R 
+3  .     b     b     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 36 by r: from (1, 2) to (2, 3)  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     .     . 
+1  r     .     .     .    
+2     .     R     .     R 
+3  .     b     b     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: r 7 R 2 b 2 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 2 last pawn advance 1
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     .     .     .     . 
+1  r     .     .     .    
+2     .     R     .     R 
+3  .     b     b     .    
+4     .     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 37 by b: from (3, 2) to (4, 1)  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     .     . 
+1  r     .     .     .    
+2     .     R     .     R 
+3  .     .     b     .    
+4     b     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: b 7 R 2 b 2 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 3 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     .     .     .     . 
+1  r     .     .     .    
+2     .     R     .     R 
+3  .     .     b     .    
+4     b     .     .     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 38 by r: from (2, 3) to (4, 5) capturing (3, 4)a  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     .     . 
+1  r     .     .     .    
+2     .     .     .     R 
+3  .     .     .     .    
+4     b     .     R     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: r 7 R 2 b 1 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 0 last pawn advance 1
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     .     .     .     . 
+1  r     .     .     .    
+2     .     .     .     R 
+3  .     .     .     .    
+4     b     .     R     . 
+5  .     .     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 39 by b: from (4, 1) to (5, 2)  Result: 
+   0  1  2  3  4  5  6  7 
+0     .     .     .     . 
+1  r     .     .     .    
+2     .     .     .     R 
+3  .     .     .     .    
+4     .     .     R     . 
+5  .     b     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: b 7 R 2 b 1 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 1 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     .     .     .     . 
+1  r     .     .     .    
+2     .     .     .     R 
+3  .     .     .     .    
+4     .     .     R     . 
+5  .     b     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 40 by r: from (1, 0) to (0, 1)  Result: 
+   0  1  2  3  4  5  6  7 
+0     R     .     .     . 
+1  .     .     .     .    
+2     .     .     .     R 
+3  .     .     .     .    
+4     .     .     R     . 
+5  .     b     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+Pawn/King count: r 6 R 3 b 1 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 2 last pawn advance 0
+Player b turn
+    0  1  2  3  4  5  6  7 
+0     R     .     .     . 
+1  .     .     .     .    
+2     .     .     .     R 
+3  .     .     .     .    
+4     .     .     R     . 
+5  .     b     .     r    
+6     .     .     .     r 
+7  r     r     r     r    
+b thinking using tonto strategy...
+Move 41 by b: from (5, 2) to (6, 1)  Result: 
+   0  1  2  3  4  5  6  7 
+0     R     .     .     . 
+1  .     .     .     .    
+2     .     .     .     R 
+3  .     .     .     .    
+4     .     .     R     . 
+5  .     .     .     r    
+6     b     .     .     r 
+7  r     r     r     r    
+Pawn/King count: b 6 R 3 b 1 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 3 last pawn advance 0
+Player r turn
+    0  1  2  3  4  5  6  7 
+0     R     .     .     . 
+1  .     .     .     .    
+2     .     .     .     R 
+3  .     .     .     .    
+4     .     .     R     . 
+5  .     .     .     r    
+6     b     .     .     r 
+7  r     r     r     r    
+r thinking using *AI* strategy...
+Move 42 by r: from (7, 0) to (5, 2) capturing (6, 1)a  Result: 
+   0  1  2  3  4  5  6  7 
+0     R     .     .     . 
+1  .     .     .     .    
+2     .     .     .     R 
+3  .     .     .     .    
+4     .     .     R     . 
+5  .     r     .     r    
+6     .     .     .     r 
+7  .     r     r     r    
+Pawn/King count: r 6 R 3 b 0 B 0 Time - move: 0s / game: 0.0min
+Moves since last capture 0 last pawn advance 0
+Final Board
+   0  1  2  3  4  5  6  7 
+0     R     .     .     . 
+1  .     .     .     .    
+2     .     .     .     R 
+3  .     .     .     .    
+4     .     .     R     . 
+5  .     r     .     r    
+6     .     .     .     r 
+7  .     r     r     r    
+Player r WINS!!! 
